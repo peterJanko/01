@@ -1,10 +1,10 @@
 {
-## spider
-//"spider":"https://download.kstore.space/download/3121/0907.jar",
-
+"spider":"http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
-
+"lives":[
+{"name":"live","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt","playerType":1,"epg":"https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}"}
+],
 "sites":[
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
